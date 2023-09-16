@@ -1,0 +1,28 @@
+{
+  "name": "math-api",
+  "version": "1.0.0",
+  "description": "Mathematic basic API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "lint": "npx eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandydht/math-api.git"
+  },
+  "keywords": [],
+  "author": "Sandydht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandydht/math-api/issues"
+  },
+  "homepage": "https://github.com/Sandydht/math-api#readme",
+  "devDependencies": {
+    "@types/jest": "29.5.5",
+    "eslint": "8.49.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.28.1",
+    "jest": "29.7.0"
+  }
+}
