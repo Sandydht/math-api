@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
+    "test:dev": "jest --watchAll --coverage",
     "lint": "npx eslint ./src"
   },
   "repository": {
