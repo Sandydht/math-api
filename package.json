@@ -4,7 +4,7 @@
   "description": "Mathematic basic API",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest",
     "test:dev": "jest --watchAll --coverage",
     "lint": "npx eslint ./src"
   },
